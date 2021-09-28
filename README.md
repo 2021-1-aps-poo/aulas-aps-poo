@@ -4,8 +4,5 @@
 
 **Professor:** [Rodrigo Rebouças de Almeida](http://rodrigor.dcx.ufpb.br)
 
-# Atividade XX
 
-Descrição da atividade
 
-![diagrama](atividade.png)

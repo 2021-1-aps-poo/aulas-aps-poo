@@ -1,4 +1,4 @@
-package br.ufpb.dcx.aps.atividades.atvXX;
+package br.ufpb.dcx.rodrigor.aulas;
 
 public class App {
 

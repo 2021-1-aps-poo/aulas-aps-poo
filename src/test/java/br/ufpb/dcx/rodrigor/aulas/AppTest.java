@@ -1,12 +1,15 @@
-package br.ufpb.dcx.aps.atividades.atvXX;
+package br.ufpb.dcx.rodrigor.aulas;
 
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+class AppTest {
 
-class AtividadeTest {
-
+    @BeforeEach
+    void setUp() {
+    }
 
 
     @Test

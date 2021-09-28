@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>br.ufpb.dcx.aps.atividades.atvXX</groupId>
-  <artifactId>atividade-XX</artifactId>
+  <artifactId>aulas-aps-poo</artifactId>
   <version>1.0</version>
 
-  <name>atividade-XX</name>
+  <name>aulas-aps-poo</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
