@@ -12,7 +12,6 @@ public class Venda {
 
 
     public void addProduto(Produto produto, int quantidade){
-        String codigo =
         this.itens.add(new ItemPedido(produto,quantidade));
     }
 
