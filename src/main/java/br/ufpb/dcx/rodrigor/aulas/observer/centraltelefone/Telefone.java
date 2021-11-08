@@ -1,4 +1,4 @@
-package br.ufpb.dcx.rodrigor.aulas.observer;
+package br.ufpb.dcx.rodrigor.aulas.observer.centraltelefone;
 
 public class Telefone implements CentralTelefonicaListener{
 
