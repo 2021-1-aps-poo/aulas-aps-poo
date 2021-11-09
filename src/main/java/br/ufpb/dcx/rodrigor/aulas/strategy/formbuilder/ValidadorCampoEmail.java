@@ -1,4 +1,4 @@
-package br.ufpb.dcx.rodrigor.aulas.formbuilder;
+package br.ufpb.dcx.rodrigor.aulas.strategy.formbuilder;
 
 public class ValidadorCampoEmail implements ValidadorCampo{
 

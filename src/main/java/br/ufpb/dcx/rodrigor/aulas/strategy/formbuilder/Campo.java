@@ -1,4 +1,4 @@
-package br.ufpb.dcx.rodrigor.aulas.formbuilder;
+package br.ufpb.dcx.rodrigor.aulas.strategy.formbuilder;
 
 public class Campo {
 
@@ -7,11 +7,14 @@ public class Campo {
     private String valor;
     private ValidadorCampo validador;
 
-
     public Campo(String id, String titulo, ValidadorCampo validador) {
         this.id = id;
         this.titulo = titulo;
         this.validador = validador;
+    }
+
+    public boolean validar() {
+        return validador.validar(this.valor);
     }
 
 
@@ -36,7 +39,4 @@ public class Campo {
         this.titulo = titulo;
     }
 
-    public boolean validar() {
-        return validador.validar(this.valor);
-    }
 }
